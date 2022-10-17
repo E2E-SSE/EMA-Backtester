@@ -1,9 +1,10 @@
 # EMA-Backtester
-Backtest EMA Cross trading strategies.
 
-Dependencies
+## Backtest EMA Cross trading strategies.
 
-yfinance
-matplotlib
-numpy
-pandas
+## Dependencies
+
+* yfinance  
+* matplotlib  
+* numpy  
+* pandas  
